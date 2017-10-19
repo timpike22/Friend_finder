@@ -1,0 +1,31 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friend finder homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timpike22/friend_finder.git"
+  },
+  "keywords": [
+    "home",
+    "work",
+    "friend",
+    "finder"
+  ],
+  "author": "Tim Pike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timpike22/friend_finder/issues"
+  },
+  "homepage": "https://github.com/timpike22/friend_finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
